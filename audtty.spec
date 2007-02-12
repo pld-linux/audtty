@@ -1,5 +1,5 @@
 Summary:	NCurses interface to Audacious media player
-Summary(pl.UTF-8):   Interfejs ncurses do odtwarzacza multimedialnego Audacious
+Summary(pl.UTF-8):	Interfejs ncurses do odtwarzacza multimedialnego Audacious
 Name:		audtty
 Version:	0.1.3
 Release:	1
