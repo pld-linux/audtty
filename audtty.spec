@@ -1,5 +1,5 @@
 Summary:	NCurses interface to Audacious media player
-Summary(pl):	Interfejs ncurses do odtwarzacza multimedialnego Audacious
+Summary(pl.UTF-8):   Interfejs ncurses do odtwarzacza multimedialnego Audacious
 Name:		audtty
 Version:	0.1.3
 Release:	1
@@ -15,7 +15,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Audtty is an ncurses-based client for Audacious media player.
 
-%description -l pl
+%description -l pl.UTF-8
 Audtty to oparty na ncurses klient odtwarzacza multimedialnego
 Audacious.
 
